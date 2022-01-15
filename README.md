@@ -71,7 +71,7 @@ Below is a list of the courses I completed. There are currently `11` courses wit
 
 - Learning how to use Terminal like a real pro :)
 [iTerm2](https://iterm2.com)
-[HomeBrew](hhttps://brew.sh)
+[HomeBrew](https://brew.sh)
 [ZSH](https://ohmyz.sh)
 
 #### Git and GitHub
