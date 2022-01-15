@@ -25,27 +25,27 @@ Below is a list of the courses I completed. There are currently `11` courses wit
 
 #### Java
 
-- Basic construction of Java language _Retraining: [itnetwork](https://www.itnetwork.cz/java/zaklady)._ _Full-time learning: 8h._ _Distance-time learning: 20h._ :paperclip: [here](https://www.itnetwork.cz/java/zaklady/tvuj-certifikat-e-learning-kurzu-zaklady-javy)
+- Basic construction of Java language _Retraining: [itnetwork](https://www.itnetwork.cz/java/zaklady)._ _Full-time learning: 8h._ _Distance learning: 20h._ :paperclip: [here](https://www.itnetwork.cz/java/zaklady/tvuj-certifikat-e-learning-kurzu-zaklady-javy)
 
 #### OOP in Java
 
-- Object-oriented programming in Java _Retraining: [itnetwork](https://www.itnetwork.cz/java/oop)._ _Full-time learning: 8h._ _Distance-time learning: 30h._ :paperclip: [here](https://www.itnetwork.cz/java/oop/tvuj-certifikat-e-learning-kurzu-oop-v-jave)
+- Object-oriented programming in Java _Retraining: [itnetwork](https://www.itnetwork.cz/java/oop)._ _Full-time learning: 8h._ _Distance learning: 30h._ :paperclip: [here](https://www.itnetwork.cz/java/oop/tvuj-certifikat-e-learning-kurzu-oop-v-jave)
 
 #### Collection and streams in Java
 
-- Collection and streams in java _Retraining: [itnetwork](https://www.itnetwork.cz/java/kolekce-a-proudy)._ _Distance-time learning: 15h._
+- Collection and streams in java _Retraining: [itnetwork](https://www.itnetwork.cz/java/kolekce-a-proudy)._ _Distance learning: 15h._
 
 #### My SQL in Java
 
-- MySQL and MariaDB databases _Retraining: [itnetwork](https://www.itnetwork.cz/mysql/)._ _Full-time learning: 8h._ _Distance-time learning: 15h._
+- MySQL and MariaDB databases _Retraining: [itnetwork](https://www.itnetwork.cz/mysql/)._ _Full-time learning: 8h._ _Distance learning: 15h._
 
 #### Java frameworks
 
-- Spring Boot _Retraining: [itnetwork](https://www.itnetwork.cz/java/spring-boot)._ _Distance-time learning: 35h._
+- Spring Boot _Retraining: [itnetwork](https://www.itnetwork.cz/java/spring-boot)._ _Distance learning: 35h._
 
 #### JavaScript
 
-- Basic construction of JavaScript language _Retraining: [itnetwork](https://www.itnetwork.cz/javascript/zaklady)._ _Full-time learning: 4h._ _Distance-time learning: 22h._
+- Basic construction of JavaScript language _Retraining: [itnetwork](https://www.itnetwork.cz/javascript/zaklady)._ _Full-time learning: 4h._ _Distance learning: 22h._
 
 #### OOP in JavaScript
 
@@ -53,19 +53,19 @@ Below is a list of the courses I completed. There are currently `11` courses wit
 
 #### JQuery
 
-- JQuery JavaScript library _Retraining: [itnetwork](https://www.itnetwork.cz/javascript/jquery-zaklady)._ _Distance-time learning: 15h._
+- JQuery JavaScript library _Retraining: [itnetwork](https://www.itnetwork.cz/javascript/jquery-zaklady)._ _Distance learning: 15h._
 
 #### HTML/CSS
 
-- Modern webdesign _Retraining: [itnetwork](https://www.itnetwork.cz/html-css/webove-stranky)._ _Full-time learning: 8h._ _Distance-time learning: 12h._
+- Modern webdesign _Retraining: [itnetwork](https://www.itnetwork.cz/html-css/webove-stranky)._ _Full-time learning: 8h._ _Distance learning: 12h._
 
 #### Responsive webdesign
 
-- Modern adn responsive webdesign _Retraining: [itnetwork](https://www.itnetwork.cz/html-css/responzivni-webdesign)._ _Distance-time learning: 10h._
+- Modern adn responsive webdesign _Retraining: [itnetwork](https://www.itnetwork.cz/html-css/responzivni-webdesign)._ _Distance learning: 10h._
 
 #### Bootstrap
 
-- Complete course of the CSS framework Bootstrap _Retraining: [itnetwork](https://www.itnetwork.cz/html-css/bootstrap/kurz)._ _Distance-time learning: 18h._
+- Complete course of the CSS framework Bootstrap _Retraining: [itnetwork](https://www.itnetwork.cz/html-css/bootstrap/kurz)._ _Distance learning: 18h._
 
 ## Learning on my own after course <a name="learning"></a> :star:
 
