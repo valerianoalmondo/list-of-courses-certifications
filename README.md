@@ -12,7 +12,7 @@ Reserved repository to list a little of my `I.T. education.`:heart_eyes:
 
 - `Ministry of Education, Sports and Youth.` Java web application programmer _(Czech Republic) [site](https://www.itnetwork.cz)._ 1.9.2021-19.12.2021 (4 months). :paperclip: [here]()
 
-## Languages <a name="language"></a> :round_pushpin:
+## Languages <a name="languages"></a> :round_pushpin:
 
 - **Czech:** Native speaker, I am Czech.🇨🇿
 - **English:** Professional working proficiency.🇬🇧
@@ -23,7 +23,7 @@ Below is a list of the courses I completed. There are currently `11` courses wit
 
 #### Java
 
-- Basic construction of Java language _Retraining: [itnetwork](hhttps://www.itnetwork.cz/java/zaklady)._ _Full-time teaching: 8h. _Distance-time teaching: 20h._ :paperclip: [here](https://www.itnetwork.cz/java/zaklady/tvuj-certifikat-e-learning-kurzu-zaklady-javy)
+- Basic construction of Java language _Retraining: [itnetwork](https://www.itnetwork.cz/java/zaklady)._ _Full-time teaching: 8h. _Distance-time teaching: 20h._ :paperclip: [here](https://www.itnetwork.cz/java/zaklady/tvuj-certifikat-e-learning-kurzu-zaklady-javy)
 
 #### OOP in Java
 
@@ -39,7 +39,7 @@ Below is a list of the courses I completed. There are currently `11` courses wit
 
 #### Java frameworks
 
-- Spring Boot _Retraining: [itnetwork](hhttps://www.itnetwork.cz/java/spring-boot)._ _Distance-time teaching: 35h._
+- Spring Boot _Retraining: [itnetwork](https://www.itnetwork.cz/java/spring-boot)._ _Distance-time teaching: 35h._
 
 #### JavaScript
 
@@ -55,7 +55,7 @@ Below is a list of the courses I completed. There are currently `11` courses wit
 
 #### HTML/CSS
 
-- Modern webdesign _Retraining: [itnetwork] (https://www.itnetwork.cz/html-css/webove-stranky)._ _Full-time teaching: 8h. _Distance-time teaching: 12h._
+- Modern webdesign _Retraining: [itnetwork](https://www.itnetwork.cz/html-css/webove-stranky)._ _Full-time teaching: 8h. _Distance-time teaching: 12h._
 
 #### Responsive webdesign
 
@@ -71,12 +71,12 @@ Below is a list of the courses I completed. There are currently `11` courses wit
 
 - Learning how to use Terminal like a real pro :)
 [iTerm2](https://iterm2.com)
-[iTerm2](hhttps://brew.sh)
+[HomeBrew](hhttps://brew.sh)
 [ZSH](https://ohmyz.sh)
 
 #### Git and GitHub
 
-[iTerm2](https://github.com)
+[Git & GitHub](https://github.com)
 
-#### Working with databases and Git in Terminal(iTerm2)
+#### Working with databases and Git in Terminal (iTerm2)
 
