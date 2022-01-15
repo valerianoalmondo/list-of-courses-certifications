@@ -10,7 +10,7 @@ Reserved repository to list a little of my `I.T. education.`:heart_eyes:
 
 ## Educational program <a name="education"></a> :mortar_board:
 
-- `Ministry of Education, Sports and Youth.` Java web application programmer _(Czech Republic) [site](https://www.itnetwork.cz)._ 1.9.2021-19.12.2021 (4 months). :paperclip: [here]()
+- `Accredited course of the Ministry of Education, Sports and Youth.` Java web application programmer _(Czech Republic) [site](https://www.itnetwork.cz)._ 1.9.2021-19.12.2021 (4 months). :paperclip: [here](https://user-images.githubusercontent.com/70283310/149637755-523a6853-045b-4266-b499-f04853397caf.jpeg) & [here](https://user-images.githubusercontent.com/70283310/149637786-2d7f6f64-e098-45a3-b9c8-156cb052cd86.jpeg)
 
 ## Languages <a name="languages"></a> :round_pushpin:
 
@@ -20,14 +20,16 @@ Reserved repository to list a little of my `I.T. education.`:heart_eyes:
 ## Courses <a name="courses"></a> :pencil2:
 
 Below is a list of the courses I completed. There are currently `11` courses with a total of `232 hours.`
+[itnetwork](https://www.itnetwork.cz)
+<img src="https://user-images.githubusercontent.com/70283310/149637861-308b3050-4063-47b2-9ad8-fb7936c556c3.png" height=180 width=880>
 
 #### Java
 
-- Basic construction of Java language _Retraining: [itnetwork](https://www.itnetwork.cz/java/zaklady)._ _Full-time teaching: 8h. _Distance-time teaching: 20h._ :paperclip: [here](https://www.itnetwork.cz/java/zaklady/tvuj-certifikat-e-learning-kurzu-zaklady-javy)
+- Basic construction of Java language _Retraining: [itnetwork](https://www.itnetwork.cz/java/zaklady)._ _Full-time teaching: 8h._ _Distance-time teaching: 20h._ :paperclip: [here](https://www.itnetwork.cz/java/zaklady/tvuj-certifikat-e-learning-kurzu-zaklady-javy)
 
 #### OOP in Java
 
-- Object-oriented programming in Java _Retraining: [itnetwork](https://www.itnetwork.cz/java/oop)._ _Full-time teaching: 8h. _Distance-time teaching: 30h._ :paperclip: [here](https://www.itnetwork.cz/java/oop/tvuj-certifikat-e-learning-kurzu-oop-v-jave)
+- Object-oriented programming in Java _Retraining: [itnetwork](https://www.itnetwork.cz/java/oop)._ _Full-time teaching: 8h._ _Distance-time teaching: 30h._ :paperclip: [here](https://www.itnetwork.cz/java/oop/tvuj-certifikat-e-learning-kurzu-oop-v-jave)
 
 #### Collection and streams in Java
 
@@ -35,7 +37,7 @@ Below is a list of the courses I completed. There are currently `11` courses wit
 
 #### My SQL in Java
 
-- MySQL and MariaDB databases _Retraining: [itnetwork](https://www.itnetwork.cz/mysql/)._ _Full-time teaching: 8h. _Distance-time teaching: 15h._
+- MySQL and MariaDB databases _Retraining: [itnetwork](https://www.itnetwork.cz/mysql/)._ _Full-time teaching: 8h._ _Distance-time teaching: 15h._
 
 #### Java frameworks
 
@@ -43,7 +45,7 @@ Below is a list of the courses I completed. There are currently `11` courses wit
 
 #### JavaScript
 
-- Basic construction of JavaScript language _Retraining: [itnetwork](https://www.itnetwork.cz/javascript/zaklady)._ _Full-time teaching: 4h. _Distance-time teaching: 22h._
+- Basic construction of JavaScript language _Retraining: [itnetwork](https://www.itnetwork.cz/javascript/zaklady)._ _Full-time teaching: 4h._ _Distance-time teaching: 22h._
 
 #### OOP in JavaScript
 
@@ -55,7 +57,7 @@ Below is a list of the courses I completed. There are currently `11` courses wit
 
 #### HTML/CSS
 
-- Modern webdesign _Retraining: [itnetwork](https://www.itnetwork.cz/html-css/webove-stranky)._ _Full-time teaching: 8h. _Distance-time teaching: 12h._
+- Modern webdesign _Retraining: [itnetwork](https://www.itnetwork.cz/html-css/webove-stranky)._ _Full-time teaching: 8h._ _Distance-time teaching: 12h._
 
 #### Responsive webdesign
 
@@ -65,14 +67,14 @@ Below is a list of the courses I completed. There are currently `11` courses wit
 
 - Complete course of the CSS framework Bootstrap _Retraining: [itnetwork](https://www.itnetwork.cz/html-css/bootstrap/kurz)._ _Distance-time teaching: 18h._
 
-## Learning on my own <a name="learning"></a> :star:
+## Learning on my own after course <a name="learning"></a> :star:
 
 #### iTerm2, brew & ZSH
 
 - Learning how to use Terminal like a real pro :)
-[iTerm2](https://iterm2.com)
-[HomeBrew](https://brew.sh)
-[ZSH](https://ohmyz.sh)
+- [iTerm2](https://iterm2.com)
+- [HomeBrew](https://brew.sh)
+- [ZSH](https://ohmyz.sh)
 
 #### Git and GitHub
 
