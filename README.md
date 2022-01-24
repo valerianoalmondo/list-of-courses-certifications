@@ -80,5 +80,5 @@ Below is a list of the courses I completed. There are currently `11` courses wit
 
 [Git & GitHub](https://github.com)
 
-#### Working with databases and Git in Terminal (iTerm2)
-
+#### Working with Postgresql databases and Git in Terminal (iTerm2)
+https://www.postgresql.org
